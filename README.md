@@ -12,4 +12,4 @@
 1. List Item #3
 
 **MSSA** 18-Week ASP.NET Core MVC *Web Application Project*
-/n (Can also use underscores)
+(Can also use underscores)
