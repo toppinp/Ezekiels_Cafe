@@ -9,7 +9,7 @@
 
 1. List Item #1
 1. List Item #2
-  a.  Sub List
 1. List Item #3
 
-MSSA 18-Week ASP.NET Core MVC Web Application Project
+**MSSA** 18-Week ASP.NET Core MVC *Web Application Project*
+(Can also use underscores)
