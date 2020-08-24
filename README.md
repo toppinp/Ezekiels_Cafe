@@ -6,25 +6,14 @@
 
 #
 
-My wife and I will be establishing a coffee shop in the future, named “Ezekiel’s Café”.  
-Due to the current COVID-influenced societal dynamics, it is not beneficial to either start or maintain a physical “brick and mortar” coffee shop right now.   Many people are more inclined to conduct business, even perishable goods, online right now.  
+My wife and I will be establishing a coffee shop in the future, named “Ezekiel’s Café”.  Due to the current COVID-influenced societal dynamics, it is not beneficial to either start or maintain a physical “brick and mortar” coffee shop right now.   Many people are more inclined to conduct business, even perishable goods, online right now.  
 I want to develop a website that will help us start a digital presence in lieu of a physical store and generate awareness and publicity for the future coffee shop.  
 
-This site will display planned company events.  
-To keep starting overhead low, we plan to start selling coffee at local farmers’ markets.  
-A website will help inform interested parties of where and when we will be selling coffee.
+This site will display planned company events.  To keep starting overhead low, we plan to start selling coffee at local farmers’ markets.  A website will help inform interested parties of where and when we will be selling coffee.
 
-The website will display current promotional discounts as well.  
-This will be in the form of a coupon-like picture that can be printed out and brought to the sale location for redemption.  
-And of course, the menu with prices will be displayed.  
-This will need to be adjustable as more items are added, or as our prices change with research and experience.
+The website will display current promotional discounts as well.  This will be in the form of a coupon-like picture that can be printed out and brought to the sale location for redemption.  And of course, the menu with prices will be displayed.  This will need to be adjustable as more items are added, or as our prices change with research and experience.
 
-Upon registration, users will be required to add their names, phone numbers, billing address, email address and one valid credit card at a minimum.  
-Users will also have the options to add their physical address and up to two other digital methods of payment.  
-These options can help ensure their purchases are successful and will expedite orders of products that require delivery.  
-Once the admin data has been saved, users will be directed to answer optional questions regarding their preferred offered caffeinated beverages.  
-These customers will also be able to save their favorite drink orders for expedient recall.  
-Based off their saved preferences, we will want the website to make drink suggestions that they may like, which will be offered to them upon log on.
+Upon registration, users will be required to add their names, phone numbers, billing address, email address and one valid credit card at a minimum.  Users will also have the options to add their physical address and up to two other digital methods of payment.  These options can help ensure their purchases are successful and will expedite orders of products that require delivery.  Once the admin data has been saved, users will be directed to answer optional questions regarding their preferred offered caffeinated beverages.  These customers will also be able to save their favorite drink orders for expedient recall.  Based off their saved preferences, we will want the website to make drink suggestions that they may like, which will be offered to them upon log on.
 
 Once a user is fully registered, they will be directed to the company home page.  This will serve as the starting page for all future visits as well.  Visiting the company home page will present the user with three displayed read-only fields; an event calendar for the current month, a display of the current menu, and any running purchase promotions.  A login option will be available at the top of the page for those users that have registered, and a register option will be available for those that haven’t done so yet.  Users will be able to click on any current promotions to bring up a picture of a coupon for that promotion, which they can print and bring with them for redemption.   Users will also have the option on the main page to purchase beverages off a drop-down menu, selected by type and cup size.  All selected purchases will be stored in their cart until the user selects a button on the top of the page to go to their cart and complete their purchase.  
 
