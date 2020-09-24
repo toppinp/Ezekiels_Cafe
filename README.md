@@ -7,6 +7,8 @@
 #
 [Conceptual Database Diagram](https://github.com/toppinp/Ezekiels_Cafe/blob/master/EzekielsCafeDBDiagram.pdf)
 
+[Database Implementation](https://github.com/toppinp/Ezekiels_Cafe/blob/master/Working%20Ezekiels%20Db.sql)
+
 My wife and I will be establishing a coffee shop in the future, named “Ezekiel’s Café”.  Due to the current COVID-influenced societal dynamics, it is not beneficial to either start or maintain a physical “brick and mortar” coffee shop right now.   Many people are more inclined to conduct business, even perishable goods, online right now.  
 I want to develop a website that will help us start a digital presence in lieu of a physical store and generate awareness and publicity for the future coffee shop.  
 
